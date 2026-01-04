@@ -7,3 +7,8 @@ google-generativeai
 # Data and Utilities
 pandas
 python-dotenv
+
+PyPDF2
+presidio-analyzer
+presidio-anonymizer
+spacy
