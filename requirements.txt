@@ -1,0 +1,9 @@
+# UI and Dashboard
+streamlit
+
+# AI and LLM
+google-generativeai
+
+# Data and Utilities
+pandas
+python-dotenv
